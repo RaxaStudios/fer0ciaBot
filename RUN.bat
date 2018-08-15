@@ -1,0 +1,1 @@
+java -jar Fer0ciaBot-1.0.jar
